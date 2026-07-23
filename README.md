@@ -214,7 +214,5 @@ php artisan view:cache
 
 ## 👨‍💻 Author
 
-**Alvin**
-GitHub: [https://github.com/rdhav](https://github.com/rdhav)
-**Sulistio**
-GitHub: [https://github.com/Tiomiku](https://github.com/Tiomiku)
+- GitHub: [**Alvin**](https://github.com/rdhav)
+- GitHub: [**Sulistio**](https://github.com/Tiomiku)
