@@ -1,7 +1,6 @@
 # 🎫 Support Desk / Ticketing System
 
 A modern web-based complaint & ticket management system built with **Laravel, Livewire, Alpine.js, and Flowbite**.
-
 This application helps companies manage internal or customer complaints in a structured, trackable, and efficient way.
 
 ---
