@@ -143,7 +143,7 @@ php artisan migrate
 If using Laravel Herd:
 
 ```
-http://support-desk.test
+http://SupportFlow.test
 ```
 
 Or manual:
