@@ -128,8 +128,9 @@ Edit `.env`:
 
 ```env
 DB_DATABASE=SupportFlow
-DB_USERNAME=root
-DB_PASSWORD=
+DB_DATABASE=database/database.sqlite
+
+touch database/database.sqlite
 ```
 
 Then run:
