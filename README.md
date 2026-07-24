@@ -97,8 +97,8 @@ support-desk/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/support-desk.git
-cd support-desk
+git clone https://github.com/rdhav/SupportFlow.git
+cd SupportFlow
 ```
 
 ### 2. Install Dependencies
@@ -127,7 +127,7 @@ php artisan key:generate
 Edit `.env`:
 
 ```env
-DB_DATABASE=support_desk
+DB_DATABASE=SupportFlow
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -182,8 +182,8 @@ php artisan migrate:fresh --seed
 ### Basic Deployment Steps
 
 ```bash
-git clone https://github.com/username/support-desk.git
-cd support-desk
+git clone https://github.com/rdhav/SupportFlow.git
+cd SupportFlow
 
 composer install --no-dev --optimize-autoloader
 npm install
